@@ -1,0 +1,51 @@
+.r {
+  width: 50%;
+  margin: 25px auto;
+  background-color: gray;
+  border-radius: 25px;
+}
+
+body {
+  font-family: 'sans-serif';
+  color: #fff;
+  background-color: #161616;
+  text-align: center;
+}
+
+.status p {
+  font-size: 1.8em;
+  text-transform: capitalize;
+  background color: gray;
+}
+
+header {
+  margin-bottom: 30px;
+  font-family: 'verdana';
+  font-size: x-small;
+  text-align: center;
+}
+
+.temp{
+  cursor:pointer;
+  color:#006dcc;
+}
+.temp:hover{
+  color:#005096;
+}
+h1 {
+  font-size: 5em;
+  background-color: gray;
+}
+
+.all-icon {
+  margin-bottom: 20px;
+}
+
+
+.icon {
+  color: #161616;
+  position: relative;
+  display: inline-block;
+  width: 12rem;
+  height: 10rem;
+}
